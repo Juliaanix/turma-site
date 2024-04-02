@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #1E6091;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+ 
+.cabecalho-imagem{
+        width: 10%;
+    }
+
+
+.cabecalho-lista-item{
+    margin:  16px;
+    display: inline-block;
+    font-size: 24px;
+}
+
+.colegio-imagem{
+    width: 40%;
+}
+
+.Colégio{
+    background-image:linear-gradient(#1A759F,#478B92,#79A284);
+   color: white; 
+   display: flex;
+   justify-content: center;
+   padding: 24px 0;
+   align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+
+}
+
+.Colégio-titulo{
+    font-size: 50px;
+    text-align:left;
+    
+       .julius-sans one-regular {
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+      
+      body{
+        .poppins-thin {
+            font-family: "Poppins", sans-serif;
+            font-weight: 100;
+            font-style: normal;
+          }
+      }
+
+.itinerario{
+    background-image:linear-gradient(#E5D765,#FFD746,#FFC804);
+   color: orangered; 
+   display:flex;
+   justify-content: center;
+   padding: 40px 0;
+   align-items: center;
+}
+
+.itinerario-titulo{
+     font-size: 50px;
+    text-align:center;
+    
+       .julius-sans one-regular {
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+.itinerario-imagem{
+    width: 30%;
+
+   }
+
+   .Estudantes{
+    background-image:linear-gradient(#ADCA47,#84CC45);
+   color: black; 
+   justify-content: center;
+   padding: 14px 0;
+   align-items: center;
+}  
+
+.estudantes-titulo{
+    font-size: 50px;
+    text-align:center;
+    
+       .julius-sans one-regular {
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+
+
+.estudante-icone{
+    width: 24px;
+    padding: 8px 12px;
+}
+
+
+
+.estudantes-div-conteudo{
+    align-items: center;
+    padding: 10px 0;
+}
+
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+
+.rodape{
+    background-color: #1E6091;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 30px;
+    padding: 12px 0;
+}
